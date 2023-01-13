@@ -1,0 +1,12 @@
+How to install:
+1) Drag and drop rhi file into Rhino
+2) restart rhino
+
+How to use:
+Installation adds two command to rhino:
+
+1) AutoLayerRender
+2) AutoLayerCapture
+
+The rendered file will be saved in the New folder in the same folder as your rhino file
+Configure your Capture or Render setting before automation
